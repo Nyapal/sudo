@@ -14,3 +14,15 @@ Get Subtotal
 
 Get total
 - to get the total: add all of the subtotals up
+
+
+Anagrams: 
+Given two strings determine if they are anagrams 
+Ex: eat, tea -> true 
+fire, roof -> false 
+
+- take the first string and sort it alaphabetically 
+- take the second string and sort it alaphabetically
+- compare the two strings if they are equal it is an anagram
+- if they are not equal it is not an anagram 
+
