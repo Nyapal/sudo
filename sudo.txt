@@ -1,0 +1,16 @@
+Write a function that gets the total price of items in a shopping cart:
+
+Create shopping Cart
+- create an empty shopping cart, total of items is zero
+
+Add Item
+- get the item's name, price & quantity
+- add the item to the cart
+- add a more items to the cart (optional)
+
+Get Subtotal
+- in order to get the total you need the subtotal of each item
+- multiply the price of each item with it's qty
+
+Get total
+- to get the total: add all of the subtotals up
